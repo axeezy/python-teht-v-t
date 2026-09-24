@@ -1,0 +1,4 @@
+Ohjeet:
+1. Liiku huoneesta toiseen valitsemalla numero.
+2. Kerää esineitä matkan varrella.
+3. Lopeta peli valitsemalla "Lopeta".
